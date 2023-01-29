@@ -6,7 +6,7 @@ fbc pman.bas
 ```
 Or if you prefer the 2023 maze try
 ```
-fmc -d v2023 pman.bas
+fbc -d v2023 pman.bas
 ```
 
 This version differs from the original in several important ways
